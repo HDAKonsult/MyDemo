@@ -11,6 +11,7 @@ namespace HelloGithub
         static void Main(string[] args)
         {
             Console.Write("Hello github");
+            int i = 10;
         }
     }
 }
